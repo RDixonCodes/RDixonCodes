@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rickie Dixon
 - 👀 I’m interested in all things architecture related, learning more about coding and new experiences.
-- 🌱 I’m currently learning GO(lang).
+- 🌱 I’m currently learning Typescript.
 - 📫 How to reach me rhdixon79@gmail.com
 
 <!---
