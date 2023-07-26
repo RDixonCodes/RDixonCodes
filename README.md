@@ -2,8 +2,6 @@
   
 - I’m currently learning whatever I can get my hands on, but lately I've been diving deeper into React and it's associated libraries. It has been fun seeing what all these different tools can do and how they can be used in different ways with eachother.
 
-  
-- Feel free to contact me @ ![Linkedin](https://www.linkedin.com/in/rickie-h-dixon-711728163/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDixonCodes&layout=compact&theme=dark)
 
