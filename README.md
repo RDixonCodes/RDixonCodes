@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Rickie Dixon
-- 👀 I’m interested in all things architecture related, learning more about coding and new experiences.
-- 🌱 I’m currently learning whatever I can get my hands on.
-- 📫 How to reach me rhdixon79@gmail.com
+- 👋 Hi, my name is Rickie Dixon. I'm a graduate of the Coding Dojo bootcamp full stack software developement program with concentrations in Python, MERN and Java. Besides coding my other interest are architecture and skateboarding. Before coding I was in the architecture program at the University of South Florida. One of my favorite architects is Santiago Calatrava. His structures combine precise engineering with a tasteful touch of artistic balance.
+  
+- I’m currently learning whatever I can get my hands on, but lately I've been diving deeper into React and it's associated libraries. It has been fun seeing what all these different tools can do and how they can be used in different ways with eachother.
+
+  
+- Feel free to contact me @ 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDixonCodes&layout=compact&theme=dark)
 
