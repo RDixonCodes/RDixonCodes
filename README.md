@@ -3,7 +3,7 @@
 - I’m currently learning whatever I can get my hands on, but lately I've been diving deeper into React and it's associated libraries. It has been fun seeing what all these different tools can do and how they can be used in different ways with eachother.
 
   
-- Feel free to contact me @ ![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))]
+- Feel free to contact me @ ![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDixonCodes&layout=compact&theme=dark)
 
