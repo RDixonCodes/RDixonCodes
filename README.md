@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning whatever I can get my hands on.
 - 📫 How to reach me rhdixon79@gmail.com
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rdixoncodes&repo=github-readme-stats)](https://github.com/rdixoncodes/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdixoncodes&layout=compact)
 
 <!---
 RDixonCodes/RDixonCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
